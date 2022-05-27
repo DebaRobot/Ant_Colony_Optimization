@@ -1,7 +1,7 @@
  ### Ant Colony Optimization
  
 
- <img src = "9187248340_a68680c02d_b1-760x380.jpg" height = "10px" width = "10px">
+ <img src = "9187248340_a68680c02d_b1-760x380.jpg" height = "150%" width = "150%">
 
 In computer science and operations research, the ant colony optimization algorithm (ACO) is a probabilistic technique for solving computational problems which can be reduced to finding good paths through graphs. Artificial ants stand for multi-agent methods inspired by the behavior of real ants. The pheromone-based communication of biological ants is often the predominant paradigm used.[2] Combinations of artificial ants and local search algorithms have become a method of choice for numerous optimization tasks involving some sort of graph, e.g., vehicle routing and internet routing.
 
